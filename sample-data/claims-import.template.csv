@@ -1,0 +1,10 @@
+policyNumber,incidentDate,claimAmount,description
+POL-AUTO-1002,{{DAYS_AGO:6}},1250.00,Side mirror knocked off in car park
+POL-HOME-2001,{{DAYS_AGO:12}},3480.75,Fence and garden shed damaged, storm on the weekend
+POL-HLTH-3001,{{DAYS_AGO:3}},420.00,Outpatient X-ray and consultation
+POL-TRVL-4001,{{DAYS_AGO:2}},13000,Camera equipment stolen from hotel room
+POL-LIFE-5001,{{DAYS_AGO:9}},abc,Amount column is not a number
+POL-UNKNOWN-9999,{{DAYS_AGO:4}},800.00,Policy number does not exist
+POL-HOME-2002,{{DAYS_AGO:5}},950.00,Policy has lapsed
+POL-AUTO-1001,{{DAYS_AGO:400}},700.00,Reported far too late
+POL-AUTO-1001,{{DAYS_AGO:1}}
